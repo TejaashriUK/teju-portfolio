@@ -386,7 +386,7 @@ function App() {
               GitHub ↗
             </a>
             <a
-              href="https://www.linkedin.com/in/tejaashri-k-a50376419/"
+              href="https://www.linkedin.com/in/tejaashri-k-0610a9315/"
               target="_blank"
               rel="noreferrer"
             >
